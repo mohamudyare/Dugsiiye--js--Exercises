@@ -1,0 +1,13 @@
+
+{
+    "name":"khadro" ,
+    "id" : 23 ,
+    "city" : "mogadish" ,
+    "order" : [
+        { "product" : "Lenovo laptop"  , "quant" : 5 , "price" :200 , "Total" : 1000} ,
+
+        { "product" : "Iphone 17"  , "quant" : 2 , "price" :300 , "Total" : 600} 
+
+    ]
+
+}
