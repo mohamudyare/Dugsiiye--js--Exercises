@@ -15,12 +15,16 @@ console.log(paragraph);
 
 
 
-// textXContent
+
+
+
+// textContent
 
 function  changetext() {
 
     head1.textContent = "WELCOME TO THE EXERCISE-33"
 }
+
 
 
 
